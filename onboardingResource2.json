@@ -1,5 +1,6 @@
 {
   "welcome": "Welcome to Transifex!",
   "message": "It's great having you on board!",
-  "team": "You are going to be part of team %s"
+  "team": "You are going to be part of team %s",
+  "additional": "This is an additional test phrase"
 }
