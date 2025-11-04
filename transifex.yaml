@@ -1,0 +1,7 @@
+git:
+  filters:
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_file: test/onboardingResource2.json
+    source_language: en
+    translation_files_expression: ‘locale/<lang>/onboarding.json’
